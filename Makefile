@@ -1,11 +1,14 @@
-all: html pdf docx rtf
+all: html pdf docx rtf tex
 
-pdf: resume.pdf
-resume.pdf: resume.md
+tex: resume.tex
+resume.tex: resume.md
 	pandoc --standalone --template style_chmduquesne.tex \
 	--from markdown --to context \
 	-V papersize=A4 \
-	-o resume.tex resume.md; \
+	-o resume.tex resume.md
+
+pdf: resume.pdf
+resume.pdf: resume.tex
 	context resume.tex
 
 html: resume.html
@@ -23,10 +26,10 @@ resume.rtf: resume.md
 	pandoc -s -S resume.md -o resume.rtf
 
 clean:
-	rm resume.html
-	rm resume.tex
-	rm resume.tuc
-	rm resume.log
-	rm resume.pdf
-	rm resume.docx
-	rm resume.rtf
+	rm -f resume.html
+	rm -f resume.tex
+	rm -f resume.tuc
+	rm -f resume.log
+	rm -f resume.pdf
+	rm -f resume.docx
+	rm -f resume.rtf
