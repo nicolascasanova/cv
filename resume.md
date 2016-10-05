@@ -1,4 +1,4 @@
-Johnny Coder
+Nicolas Casanova
 ============
 
 ----
@@ -96,5 +96,6 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <nicolas@famillecasanova.fr> • +33 (0)67 947 2203 • 37 ans\
+> 9 villa Blanche\
+> 92000 NANTERRE
