@@ -3,8 +3,8 @@ Nicolas Casanova
 
 ----
 
->  communication me sont naturels ; polyvalent et curieux, j'éprouve un
 >  Issu d'une formation littéraire, le contact et la
+>  communication me sont naturels ; polyvalent et curieux, j'éprouve un
 >  véritable intérêt pour les nouveautés techniques et méthodologiques.
 
 ----
@@ -81,8 +81,8 @@ Technicien de maintenance informatique.\
 Compétences
 --------------------
 
-Atlassian
-:   * JIRA (v3.11, v4.4, v5.2, v6.0, v6.3),
+Atlassian:
+    * JIRA (v3.11, v4.4, v5.2, v6.0, v6.3),
     * Confluence (v3.5, v5.1, v5.7, v5.10),
     * Fisheye/Crucible (v3.3.0),
     * Crowd (v2.8)
