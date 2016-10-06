@@ -3,96 +3,127 @@ Nicolas Casanova
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  communication me sont naturels ; polyvalent et curieux, j'éprouve un
+>  Issu d'une formation littéraire, le contact et la
+>  véritable intérêt pour les nouveautés techniques et méthodologiques.
 
 ----
 
-Education
----------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Expérience
 ----------
 
-**Your Most Recent Work Experience:**
+**2013-2016 — Voyages-SNCF.com (pour Netapsys) :**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Gestion des environnements Atlassian chez VSC Technologies. Assistance aux utilisateurs (support niveau 2.)
 
-* First item
+* Montée en version JIRA (v6.0 à v6.3)
+* Montée en version Confluence (v5.1 à v5.7, v5.7 à 5.10)
+* Administration de Fisheye/Crucible
+* Création de rapports avec BIRT et PowerReport
+* Industrialisation et outillage
+    * Utilisation de l'API REST de JIRA pour répondre à diverses problématiques\
+    (liste des plugins et leur version, liste des administrateurs de projet, ajout en masse d'utilisateurs dans un rôle, etc.)
+    * Script pour restaurer une copie de production sur un environnement de recette
+    * **Exportation en masse des workflows XML** pour historisation sous Git
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**2012-2013 — Électricité de France (pour CGI) :**
 
-**That Other Job You Had**
+Administrateur JIRA et SVN en appui transverse (SI Management de l'énergie),
+chargé du maintien en condition opérationnelle des outils utilisés par les TMA.
 
-Also with a short description.
+*Environnement technique* : JIRA, Oracle Database 10g, Apache 2, Subversion, RHEL, Perl et PHP
 
-Technical Experience
+* Gestion du bugtracker JIRA (création de compte, gestion des droits, migration de JIRA 3.13 vers JIRA 5.2, déplacement d'un projet de JIRA 4.4 vers JIRA 5.2)
+* Gestion des dépôts Subversion (authentification via LDAP, outillage de gestion des comptes, etc.)
+* Pilotage des demandes CAST, support niveau 1 pour Quality Center
+
+**2009-2012 — Électricité réseau distribution France (ErDF, pour CGI) :**
+
+Au sein de l'équipe d'intégration, chargé de qualifier et valider les
+développements du portail B2B appelé SGE (Système de gestion des échanges)
+et backup du chef de projet.
+
+*Environnement technique :* Java, Weblogic, WebMethods, Oracle Database 11g,
+MySQL, Mantis, Apache 2, Subversion, Solaris, AIX.
+
+* Responsable de la réception du code source, de la vérification de sa
+  conformité aux règles de codage en vigueur, de sa compilation, de son déploiement.
+* Chargé de l'empaquetage du code et de l'envoi aux équipes de Qualification avant mise en production.
+* Développement d'outils d'automatisation et d'intégration continue
+
+**2007-2009 — Cofely (pour CGI) :**
+
+Initialement développeur, puis chargé d'analyse fonctionnelle sur le domaine
+Facturation et Clients au sein de l'équipe de tierce maintenance applicative
+SURF Elyo.
+
+*Environnement technique :* MS Windows (client et serveur), Oracle Database, Oracle Forms et Reports, MS Office
+
+* Développement de correctifs
+* Rédaction de spécifications fonctionnelles
+* Prise en charge d’appels Hotline (Support Niveau 3)
+* Participation à la migration d’Oracle 7 à 10g
+* Rôle dans le projet « Fusion » de regroupement de bases de données régionales
+  en une nationale.
+
+**2005-2006 — Nagra S.A. :**
+
+Technicien de maintenance informatique.\
+
+*Environnement technique :* Mac OS X, 4D
+
+* Expertise Mac OS X, déploiements de serveurs et de clients
+* Mise en place d’un outil de helpdesk ([GLPI](http://glpi-project.org/))
+* Assistance technique aux utilisateurs
+
+
+Compétences
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Atlassian
+:   * JIRA (v3.11, v4.4, v5.2, v6.0, v6.3),
+    * Confluence (v3.5, v5.1, v5.7, v5.10),
+    * Fisheye/Crucible (v3.3.0),
+    * Crowd (v2.8)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Langages
+:	Shell Unix (ksh, bash, awk, sed, m4), SQL, Perl, Go\
+    Notions de PowerShell\
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Systèmes
+:	Solaris, AIX, FreeBSD, Linux (Debian, RHEL), Mac OS X
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Bases de données
+:	MySQL, PostgreSQL, Oracle Database (10g et 11g)
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Outils
+:	Jenkins, Subversion, Git, TOAD, SQL Developer, Mantis BT
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Diplômes et certifications
+---------
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+2006
+:   **Licence d'administrateur système / réseau / base de données**,
+    [IPI](http://www.ipi-ecoles.com/category/campus/paris/), 75010 Paris
 
-[ref]: https://github.com/githubuser/superlongprojectname
+2000
+:   **Licence d'Histoire**, Université Paris-Ouest, Nanterre
 
-Extra Section, Call it Whatever You Want
+
+Divers
 ----------------------------------------
 
-* Human Languages:
+* Langues étrangères
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * français (langue maternelle)
+     * anglais (lu, parlé, écrit)
+     * italien, espagnol (notions)
 
-* Random tidbit
+* Loisirs
 
-* Other sort of impressive-sounding thing you did
+     * Cinéma
+     * Littérature
 
 ----
 
