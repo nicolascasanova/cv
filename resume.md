@@ -3,9 +3,10 @@ Nicolas Casanova
 
 ----
 
->  Issu d'une formation littéraire, le contact et la
->  communication me sont naturels ; polyvalent et curieux, j'éprouve un
->  véritable intérêt pour les nouveautés techniques et méthodologiques.
+>  Issu d'une formation littéraire m'ayant donné de bonnes capacité de
+>  rédaction, le contact et la communication me sont naturels ;
+>  polyvalent et curieux, j'éprouve un véritable intérêt pour les
+>  nouveautés techniques et méthodologiques.
 
 ----
 
@@ -17,10 +18,13 @@ Expérience
 
 Gestion des environnements Atlassian chez VSC Technologies. Assistance aux utilisateurs (support niveau 2.)
 
+*Environnement technique :* JIRA, Confluence, Git, CentOS, MySQL
+
 * Montée en version JIRA (v6.0 à v6.3)
 * Montée en version Confluence (v5.1 à v5.7, v5.7 à 5.10)
 * Administration de Fisheye/Crucible
 * Création de rapports avec BIRT et PowerReport
+* Création et maintenance de scripts Groovy (Adaptavist Script Runner)
 * Industrialisation et outillage
     * Utilisation de l'API REST de JIRA pour répondre à diverses problématiques\
     (liste des plugins et leur version, liste des administrateurs de projet, ajout en masse d'utilisateurs dans un rôle, etc.)
@@ -34,7 +38,8 @@ chargé du maintien en condition opérationnelle des outils utilisés par les TM
 
 *Environnement technique* : JIRA, Oracle Database 10g, Apache 2, Subversion, RHEL, Perl et PHP
 
-* Gestion du bugtracker JIRA (création de compte, gestion des droits, migration de JIRA 3.13 vers JIRA 5.2, déplacement d'un projet de JIRA 4.4 vers JIRA 5.2)
+* Gestion du bugtracker JIRA (création de compte, gestion des droits, migration
+  de JIRA 3.13 vers JIRA 5.2, déplacement d'un projet de JIRA 4.4 vers JIRA 5.2)
 * Gestion des dépôts Subversion (authentification via LDAP, outillage de gestion des comptes, etc.)
 * Pilotage des demandes CAST, support niveau 1 pour Quality Center
 
@@ -49,7 +54,8 @@ MySQL, Mantis, Apache 2, Subversion, Solaris, AIX.
 
 * Responsable de la réception du code source, de la vérification de sa
   conformité aux règles de codage en vigueur, de sa compilation, de son déploiement.
-* Chargé de l'empaquetage du code et de l'envoi aux équipes de Qualification avant mise en production.
+* Chargé de l'empaquetage du code et de l'envoi aux équipes de Qualification
+  avant mise en production.
 * Développement d'outils d'automatisation et d'intégration continue
 
 **2007-2009 — Cofely (pour CGI) :**
@@ -58,9 +64,10 @@ Initialement développeur, puis chargé d'analyse fonctionnelle sur le domaine
 Facturation et Clients au sein de l'équipe de tierce maintenance applicative
 SURF Elyo.
 
-*Environnement technique :* MS Windows (client et serveur), Oracle Database, Oracle Forms et Reports, MS Office
+*Environnement technique :* MS Windows (client et serveur), Oracle Database,
+Oracle Forms et Reports, MS Office
 
-* Développement de correctifs
+* Développement en PL/SQL de correctifs
 * Rédaction de spécifications fonctionnelles
 * Prise en charge d’appels Hotline (Support Niveau 3)
 * Participation à la migration d’Oracle 7 à 10g
@@ -81,14 +88,14 @@ Technicien de maintenance informatique.\
 Compétences
 --------------------
 
-Atlassian:
-    * JIRA (v3.11, v4.4, v5.2, v6.0, v6.3),
+Atlassian
+:   * JIRA (v3.11, v4.4, v5.2, v6.0, v6.3),
     * Confluence (v3.5, v5.1, v5.7, v5.10),
     * Fisheye/Crucible (v3.3.0),
     * Crowd (v2.8)
 
 Langages
-:	Shell Unix (ksh, bash, awk, sed, m4), SQL, Perl, Go\
+:	Shell Unix (ksh, bash, awk, sed, m4), SQL, Perl, Go, Groovy\
     Notions de PowerShell\
 
 Systèmes
@@ -123,6 +130,7 @@ Divers
 * Loisirs
 
      * Cinéma
+     * Photographie
      * Littérature
 
 ----
