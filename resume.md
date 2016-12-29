@@ -13,6 +13,9 @@ Nicolas Casanova
 
 Expérience
 ----------
+**décembre 2016 — Direct Assurance (pour Netapsys) :**
+
+Mise en place d'un annuaire centralisé ([Crowd](https://www.atlassian.com/software/crowd/) 2.10.1) et fédération d'identité (Single Sign-On)
 
 **2013-2016 — Voyages-SNCF.com (pour Netapsys) :**
 
