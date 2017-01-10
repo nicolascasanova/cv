@@ -15,7 +15,8 @@ Expérience
 ----------
 **décembre 2016 — Direct Assurance (pour Netapsys) :**
 
-Mise en place d'un annuaire centralisé ([Crowd](https://www.atlassian.com/software/crowd/) 2.10.1) et fédération d'identité (Single Sign-On)
+* Mise en place d'un annuaire centralisé ([Crowd](https://www.atlassian.com/software/crowd/) 2.10.1) et fédération d'identité (Single Sign-On)
+* Montée en version JIRA (v6.3 à 7.2)
 
 **2013-2016 — Voyages-SNCF.com (pour Netapsys) :**
 
@@ -23,7 +24,7 @@ Gestion des environnements Atlassian chez VSC Technologies. Assistance aux utili
 
 *Environnement technique :* JIRA, Confluence, Git, CentOS, MySQL
 
-* Montée en version JIRA (v6.0 à v6.3)
+* Montée en version JIRA (v6.0 à v6.3, v6.3 à 7.2)
 * Montée en version Confluence (v5.1 à v5.7, v5.7 à 5.10)
 * Administration de Fisheye/Crucible
 * Création de rapports avec BIRT et PowerReport
@@ -92,10 +93,10 @@ Compétences
 --------------------
 
 Atlassian
-:   * JIRA (v3.11, v4.4, v5.2, v6.0, v6.3),
+:   * JIRA (v4.4, v5.2, v6.0, v6.3, v7.2),
     * Confluence (v3.5, v5.1, v5.7, v5.10),
     * Fisheye/Crucible (v3.3.0),
-    * Crowd (v2.8)
+    * Crowd (v2.8, v2.10)
 
 Langages
 :	Shell Unix (ksh, bash, awk, sed, m4), SQL, Perl, Go, Groovy\
@@ -108,7 +109,7 @@ Bases de données
 :	MySQL, PostgreSQL, Oracle Database (10g et 11g)
 
 Outils
-:	Jenkins, Subversion, Git, TOAD, SQL Developer, Mantis BT
+:	Docker, Jenkins, Subversion, Git, TOAD, SQL Developer, Mantis BT
 
 Diplômes et certifications
 ---------
