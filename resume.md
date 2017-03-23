@@ -13,6 +13,10 @@ Nicolas Casanova
 
 Expérience
 ----------
+**2017 — AXA (pour Netapsys) :**
+* Migration d'une instance Confluence Cloud vers un Confluence Server
+* Scripting Perl ; accompagnement et conseil sur l'utilisation de JIRA et Confluence
+
 **décembre 2016 — Direct Assurance (pour Netapsys) :**
 
 * Mise en place d'un annuaire centralisé ([Crowd](https://www.atlassian.com/software/crowd/) 2.10.1) et fédération d'identité (Single Sign-On)
