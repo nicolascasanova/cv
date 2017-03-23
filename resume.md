@@ -14,6 +14,7 @@ Nicolas Casanova
 Expérience
 ----------
 **2017 — AXA (pour Netapsys) :**
+
 * Migration d'une instance Confluence Cloud vers un Confluence Server
 * Scripting Perl ; accompagnement et conseil sur l'utilisation de JIRA et Confluence
 
