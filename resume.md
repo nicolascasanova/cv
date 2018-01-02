@@ -13,6 +13,13 @@ Nicolas Casanova
 
 Expérience
 ----------
+**juillet-décembre 2017 — Voyages-SNCF.com (pour SmartView) :**
+
+* Montée en version JIRA (en v7.3.8) et Confluence (en v6.4.3)
+* Fusion de deux instances JIRA (deux projets déplacés, 20 000 tickets, 7 Go de pièces jointes)
+* Assistance utilisateurs
+* Scripting (groovy, perl, shell)
+
 **2017 — AXA (pour Netapsys) :**
 
 * Migration d'une instance Confluence Cloud vers un Confluence Server
