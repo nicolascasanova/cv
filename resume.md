@@ -105,8 +105,8 @@ Compétences
 --------------------
 
 Atlassian
-:   * JIRA (v4.4, v5.2, v6.0, v6.3, v7.2),
-    * Confluence (v3.5, v5.1, v5.7, v5.10),
+:   * JIRA (v4.4, v5.2, v6.0, v6.3, v7.3),
+    * Confluence (v3.5, v5.1, v5.7, v5.10, v6.x),
     * Fisheye/Crucible (v3.3.0),
     * Crowd (v2.8, v2.10)
 
@@ -115,7 +115,7 @@ Langages
     Notions de PowerShell\
 
 Systèmes
-:	Solaris, AIX, FreeBSD, Linux (Debian, RHEL), Mac OS X
+:	Linux (Debian, RHEL), Solaris, AIX, FreeBSD, Mac OS X
 
 Bases de données
 :	MySQL, PostgreSQL, Oracle Database (10g et 11g)
@@ -151,6 +151,6 @@ Divers
 
 ----
 
-> <nicolas@famillecasanova.fr> • +33 (0)67 947 2203 • 37 ans\
+> <nicolas@famillecasanova.fr> • +33 (0)67 947 2203 • 38 ans\
 > 9 villa Blanche\
 > 92000 NANTERRE
